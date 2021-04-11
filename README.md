@@ -25,7 +25,9 @@ https://momentjs.com/docs/#/displaying/
 
 * display Date , present Day and time on header.
 
+## View page 
 
+![](https://github.com/hiral271/Day-planer/blob/main/Image-2021-04-10-at-10.45.42-PM.jpeg)
 
 
 
